@@ -1,5 +1,4 @@
 exec dbus-launch i3
-polybar &
 
 
 
